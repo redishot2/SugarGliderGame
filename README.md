@@ -1,4 +1,4 @@
-MagicShow
+Sugar Glider Game
 =========
 
 An Interactive Scene 
