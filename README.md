@@ -11,10 +11,15 @@ Only a few classes have actual code. The other classes are empty
 so I can call the art they reference to the screen
 The classes with relevant code are:
 credits.as
+
 game.as
+
 howTo.as
+
 lose.as
+
 main.as
+
 screenControl.as
 
 The postMortum.odt contains my post mortum about the game
